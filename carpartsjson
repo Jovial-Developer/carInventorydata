@@ -1,0 +1,26 @@
+[
+  {
+    "name": "Alternator",
+    "model": "AV45B20",
+    "brand": "ACDelco",
+    "make": "Chevy",
+    "price": 250,
+    "partIdFinal": 0
+  },
+  {
+    "name": "Alternator",
+    "model": "AC45M90",
+    "brand": "ACDelco",
+    "make": "Chevy",
+    "price": 350,
+    "partIdFinal": 0
+  },
+  {
+    "name": "Supercharger",
+    "model": "PowerMaac86",
+    "brand": "Edelbrock",
+    "make": "Chevy",
+    "price": 350,
+    "partIdFinal": 0
+  }
+]
